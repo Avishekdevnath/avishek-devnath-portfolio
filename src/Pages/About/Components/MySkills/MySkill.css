@@ -1,0 +1,7 @@
+.mySkill-style{
+    background-color: rgb(34, 33, 33);
+}
+
+.table-style td, .table-style th, .table-style tbody {
+    border: none !important;
+}

@@ -1,0 +1,14 @@
+.project-style{
+    min-height: 90vh;
+    background-color: rgb(34, 33, 33);
+}
+.card-style{
+    height: 480px !important;
+}
+.card-body-style{
+    height: 250px !important;
+}
+.link-style{
+    color: black !important;
+    text-decoration: none;
+}

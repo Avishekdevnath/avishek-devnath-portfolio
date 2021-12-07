@@ -1,0 +1,19 @@
+.basic-style{
+    height: 100vh;
+    background-color: rgb(34, 33, 33);
+    color: black !important;
+}
+.i-Social{
+     height: 50px;
+    width: 50px;
+    background-color: white;
+    color: black ;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+}
+
+.i-Social-style{
+    color: black;
+}

@@ -6,6 +6,13 @@
   height: 40vmin;
   pointer-events: none;
 }
+.m-logo{
+  color: #FFA63D;
+}
+.nav-text{
+    color: #fff;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -24,9 +31,6 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
 @keyframes App-logo-spin {
   from {

@@ -1,0 +1,50 @@
+/* Style for contact page */
+.i-contact{
+    height: 16px;
+    width: 16px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    color: white ;
+}
+
+.c-button{
+    background-color: coral;
+    color: aliceblue;
+    font-weight: bold;
+}
+.contact-style{
+    background-color: rgb(34, 33, 33) !important;
+}
+
+.text-field {
+    background: #ffffff;
+    color: rgb(49, 47, 47) !important;
+    outline-color: #1f701f;
+    font-size: 20px;
+    padding: 20px;
+    border: none;
+    margin-top: 15px;
+    border-radius: 5px;
+    width: 90%;
+    border: 1px solid coral !important;
+}
+.input {
+    height: 50px !important;
+}
+.textarea {
+    height: 120px !important;
+}
+.send-btn {
+    margin-top: 15px !important;
+    background: coral !important;
+    color: aliceblue;
+    font-weight: bold;
+    width: 50% !important;
+}
+.contact-icon {
+    color: #1f701f;
+    font-size: 30px !important;
+    margin: 5px 5px 0px 0px;
+}

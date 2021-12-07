@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/ftVwzj2/1-bike-website.png",
+        "title": "Bike Website",
+        "live": "https://dhoom-45b29.web.app/",
+        "client": "https://github.com/Avishekdevnath/Niche-Website-Client-Side_Complete-Website",
+        "server": "https://github.com/Avishekdevnath/Niche-Website-Server-Side_Complete-Website",
+        "description": "It's a demo website for online bike shop. Here anyone can buy their favorite bike.",
+        "long-description": "It is a dynamic website. User can order bike and give review. User can manage their order. It has a dynamic admin panel with certain accessibilities.",
+        "technology": "REACT, Node.js, Express.js, MongoDB, Firebase Authentication, Material UI.",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/tC9Fc5N/2-tourist-website.png",
+        "title": "Tourist Website",
+        "live": "https://vromon-31310.web.app/",
+        "client": "https://github.com/Avishekdevnath/Niche-Website-Client-Side_Complete-Website",
+        "server": "https://github.com/Avishekdevnath/Niche-Website-Server-Side_Complete-Website",
+        "description": "It is a website to bring Traveler and travel agent together all over the world remotely. ",
+        "long-description": "It is a dynamic website. User can book tour packages. User can manage their order using CRUD Operation. It has a dynamic admin panel with certain accessibility.",
+        "technology": "REACT, Node.js, Express.js, MongoDB, Firebase Authentication, REACT Bootstrap.",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/JdrKdz0/3-healthcare-website.png",
+        "title": "Healthcare Website",
+        "live": "https://heart-line-7abba.web.app/",
+        "client": "https://github.com/Avishekdevnath/Niche-Website-Client-Side_Complete-Website",
+        "server": "https://github.com/Avishekdevnath/Niche-Website-Server-Side_Complete-Website",
+        "description": "Heart Line It is a website to bring patient and doctors together from all over the world remotely.",
+        "long-description": "It is a dynamic website. It has own API created for services and doctors. User can order book appointment. It has an authentication system. User can use register and login features.",
+        "technology": "REACT, Firebase Authentication, REACT Bootstrap.",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/TYjFVBP/4-music-website.png",
+        "title": "Bike Website",
+        "live": "https://a9-music-academy-avishek.netlify.app/",
+        "client": "https://github.com/Avishekdevnath/Niche-Website-Client-Side_Complete-Website",
+        "server": "https://github.com/Avishekdevnath/Niche-Website-Server-Side_Complete-Website",
+        "description": "It's a demo website for online bike shop. Here anyone can buy their favorite bike.",
+        "long-description": "It is a dynamic website. User can order bike and give review. User can manage their order. It has a dynamic admin panel with certain accessibilities.",
+        "technology": "REACT, Node.js, Express.js, MongoDB, Firebase Authentication, Material UI.",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/ftVwzj2/1-bike-website.png",
+        "title": "Bike Website",
+        "live": "https://dhoom-45b29.web.app/",
+        "client": "https://github.com/Avishekdevnath/Niche-Website-Client-Side_Complete-Website",
+        "server": "https://github.com/Avishekdevnath/Niche-Website-Server-Side_Complete-Website",
+        "description": "It's a demo website for online bike shop. Here anyone can buy their favorite bike.",
+        "long-description": "It is a dynamic website. User can order bike and give review. User can manage their order. It has a dynamic admin panel with certain accessibilities.",
+        "technology": "REACT, Node.js, Express.js, MongoDB, Firebase Authentication, Material UI.",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/ftVwzj2/1-bike-website.png",
+        "title": "Bike Website",
+        "live": "https://dhoom-45b29.web.app/",
+        "client": "https://github.com/Avishekdevnath/Niche-Website-Client-Side_Complete-Website",
+        "server": "https://github.com/Avishekdevnath/Niche-Website-Server-Side_Complete-Website",
+        "description": "It's a demo website for online bike shop. Here anyone can buy their favorite bike.",
+        "long-description": "It is a dynamic website. User can order bike and give review. User can manage their order. It has a dynamic admin panel with certain accessibilities.",
+        "technology": "REACT, Node.js, Express.js, MongoDB, Firebase Authentication, Material UI.",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/ftVwzj2/1-bike-website.png",
+        "title": "Bike Website",
+        "live": "https://dhoom-45b29.web.app/",
+        "client": "https://github.com/Avishekdevnath/Niche-Website-Client-Side_Complete-Website",
+        "server": "https://github.com/Avishekdevnath/Niche-Website-Server-Side_Complete-Website",
+        "description": "It's a demo website for online bike shop. Here anyone can buy their favorite bike.",
+        "long-description": "It is a dynamic website. User can order bike and give review. User can manage their order. It has a dynamic admin panel with certain accessibilities.",
+        "technology": "REACT, Node.js, Express.js, MongoDB, Firebase Authentication, Material UI.",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/ftVwzj2/1-bike-website.png",
+        "title": "Bike Website",
+        "live": "https://dhoom-45b29.web.app/",
+        "client": "https://github.com/Avishekdevnath/Niche-Website-Client-Side_Complete-Website",
+        "server": "https://github.com/Avishekdevnath/Niche-Website-Server-Side_Complete-Website",
+        "description": "It's a demo website for online bike shop. Here anyone can buy their favorite bike.",
+        "long-description": "It is a dynamic website. User can order bike and give review. User can manage their order. It has a dynamic admin panel with certain accessibilities.",
+        "technology": "REACT, Node.js, Express.js, MongoDB, Firebase Authentication, Material UI.",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+    }
+]
